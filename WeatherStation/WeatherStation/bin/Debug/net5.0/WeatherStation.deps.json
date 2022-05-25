@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "WeatherStation/1.0.0": {
         "dependencies": {
+          "DocumentFormat.OpenXml": "2.16.0",
           "Newtonsoft.Json": "6.0.6",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -326,6 +327,20 @@
           "WeatherStation.dll": {}
         }
       },
+      "DocumentFormat.OpenXml/2.16.0": {
+        "dependencies": {
+          "System.IO.Packaging": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DocumentFormat.OpenXml.dll": {
+            "assemblyVersion": "2.16.0.0",
+            "fileVersion": "2.16.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/DocumentFormat.OpenXml.dll": {}
+        }
+      },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
       "Microsoft.OpenApi/1.2.3": {
         "runtime": {
@@ -394,6 +409,17 @@
         },
         "compile": {
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+        }
+      },
+      "System.IO.Packaging/4.7.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Packaging.dll": {
+            "assemblyVersion": "4.0.5.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        },
+        "compile": {
+          "ref/netstandard2.0/System.IO.Packaging.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2102,6 +2128,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "DocumentFormat.OpenXml/2.16.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RhpnDgyyx1KjZm98T3w3bSXFHG/7ZNUaVmz4NAUA+jmV3PcVNZeW87Y04CpBNLdDHEMSspirfo0B5kLRaoE97w==",
+      "path": "documentformat.openxml/2.16.0",
+      "hashPath": "documentformat.openxml.2.16.0.nupkg.sha512"
+    },
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
       "type": "package",
       "serviceable": true,
@@ -2150,6 +2183,13 @@
       "sha512": "sha512-BPvcPxQRMsYZ3HnYmGKRWDwX4Wo29WHh14Q6B10BB8Yfbbcza+agOC2UrBFA1EuaZuOsFLbp6E2+mqVNF/Je8A==",
       "path": "swashbuckle.aspnetcore.swaggerui/5.6.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    },
+    "System.IO.Packaging/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9VV4KAbgRQZ79iEoG40KIeZy38O30oWwewScAST879+oki8g/Wa2HXZQgrhDDxQM4GkP1PnRJll05NMiVPbYAw==",
+      "path": "system.io.packaging/4.7.0",
+      "hashPath": "system.io.packaging.4.7.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
       "type": "referenceassembly",

@@ -1,16 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "H1mEIsAbX0iKqyzDeunjrVIieIsFZmXIx0Qye2ZK9uSus4YtxPp2tr++8mvxkU7QG+ZS23bHHzFp3UMwRR9zyQ==",
+  "dgSpecHash": "VzAxcTbnj2jiv5oITpmB87eZJQ7knVN7mqcgwNwGHXjNeyI1hxIaeH825fBtoyE9JBQD/rOyH5w4w7eXnziRaw==",
   "success": true,
   "projectFilePath": "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherStation\\WeatherStation.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\swath\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\newtonsoft.json\\6.0.6\\newtonsoft.json.6.0.6.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\swath\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\swath\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\swath\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
   ],
   "logs": [
     {

@@ -8,10 +8,14 @@ using System.Threading.Tasks;
 
 using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
+using Microsoft.AspNetCore.Authorization;
+using WeatherStation.Models;
+using DocumentFormat.OpenXml.Spreadsheet;
 
 namespace WeatherStation.Controllers
 {
     [Route("api/[controller]")]
+    [Authorize]
     public class WeatherController : Controller
     {
         private readonly IOptions<AppOptions> _options;
@@ -21,7 +25,9 @@ namespace WeatherStation.Controllers
             _options = options;
         }
 
+       [Authorize]
         [HttpGet("[action]/{weatherparameter}")]
+       
         public async Task<IActionResult> FindWeather(string weatherparameter,string weatherparametertype)
         {
             using (var client = new HttpClient())
@@ -48,25 +54,11 @@ namespace WeatherStation.Controllers
             }
         }
     }
-    public class OpenWeatherResponse
-    {
-        public string Name { get; set; }
+ 
 
-        public IEnumerable<WeatherDescription> Weather { get; set; }
 
-        public Main Main { get; set; }
-    }
 
-    public class WeatherDescription
-    {
-        public string Main { get; set; }
-        public string Description { get; set; }
-    }
-
-    public class Main
-    {
-        public string Temp { get; set; }
-    }
+ 
 
 }
 

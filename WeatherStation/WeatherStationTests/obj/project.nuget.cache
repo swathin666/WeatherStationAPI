@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "hMrnA1ospgAo7QmukIqyXyrOUb10O9PkmRw5sCa2G9+n5LOybQ9bnYEUGD7xov7t6O9JdBcdTx7UGCI2KteN9g==",
+  "dgSpecHash": "XOm36GpoHZJmg7RD0hHRXh1ymtQPoMvb7/80QltwIV9cIoBXYiTMxaMaWVlsV5tZPdHZ39SeDf7ny88A22UUSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherStationTests\\WeatherStationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\swath\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\swath\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.8\\microsoft.aspnet.webapi.client.5.2.8.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.8\\microsoft.aspnet.webapi.core.5.2.8.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
@@ -54,6 +55,7 @@
     "C:\\Users\\swath\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\swath\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",

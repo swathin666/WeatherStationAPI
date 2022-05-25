@@ -10,10 +10,10 @@ using System.Web.Http.Results;
 using WeatherStation.Controllers;
 
 
-namespace WeatherForecastControllerTests
+namespace WeatherStationTests
 {
     [TestFixture]
-    public class WeatherForecastControllerTests
+    public class WeatherStationTests
     {
         private IOptions<AppOptions> _options;
         [SetUp]

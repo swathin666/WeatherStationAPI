@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WeatherStation\\WeatherStation\\WeatherForecastControllerTests\\WeatherForecastControllerTests.csproj": {}
+    "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherForecastControllerTests\\WeatherForecastControllerTests.csproj": {}
   },
   "projects": {
-    "C:\\WeatherStation\\WeatherStation\\WeatherForecastControllerTests\\WeatherForecastControllerTests.csproj": {
+    "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherForecastControllerTests\\WeatherForecastControllerTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WeatherStation\\WeatherStation\\WeatherForecastControllerTests\\WeatherForecastControllerTests.csproj",
+        "projectUniqueName": "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherForecastControllerTests\\WeatherForecastControllerTests.csproj",
         "projectName": "WeatherForecastControllerTests",
-        "projectPath": "C:\\WeatherStation\\WeatherStation\\WeatherForecastControllerTests\\WeatherForecastControllerTests.csproj",
+        "projectPath": "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherForecastControllerTests\\WeatherForecastControllerTests.csproj",
         "packagesPath": "C:\\Users\\swath\\.nuget\\packages\\",
-        "outputPath": "C:\\WeatherStation\\WeatherStation\\WeatherForecastControllerTests\\obj\\",
+        "outputPath": "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherForecastControllerTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\WeatherStation\\WeatherStation\\WeatherStation\\WeatherStation.csproj": {
-                "projectPath": "C:\\WeatherStation\\WeatherStation\\WeatherStation\\WeatherStation.csproj"
+              "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherStation\\WeatherStation.csproj": {
+                "projectPath": "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherStation\\WeatherStation.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\WeatherStation\\WeatherStation\\WeatherStation\\WeatherStation.csproj": {
+    "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherStation\\WeatherStation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WeatherStation\\WeatherStation\\WeatherStation\\WeatherStation.csproj",
+        "projectUniqueName": "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherStation\\WeatherStation.csproj",
         "projectName": "WeatherStation",
-        "projectPath": "C:\\WeatherStation\\WeatherStation\\WeatherStation\\WeatherStation.csproj",
+        "projectPath": "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherStation\\WeatherStation.csproj",
         "packagesPath": "C:\\Users\\swath\\.nuget\\packages\\",
-        "outputPath": "C:\\WeatherStation\\WeatherStation\\WeatherStation\\obj\\",
+        "outputPath": "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherStation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

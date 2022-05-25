@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZEWd7Sn5mA2vgF18MFPM4zRLtfjL5+DPj9O7XX+6pWycmWAsomnHsaXtdg8qXwHESpWfwAQogUAPmLK9demXeA==",
+  "dgSpecHash": "hMrnA1ospgAo7QmukIqyXyrOUb10O9PkmRw5sCa2G9+n5LOybQ9bnYEUGD7xov7t6O9JdBcdTx7UGCI2KteN9g==",
   "success": true,
-  "projectFilePath": "C:\\WeatherStation\\WeatherStation\\WeatherForecastControllerTests\\WeatherForecastControllerTests.csproj",
+  "projectFilePath": "C:\\Users\\swath\\OneDrive\\Documents\\GitHub\\WeatherStationAPI\\WeatherStation\\WeatherStationTests\\WeatherStationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\swath\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\swath\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.8\\microsoft.aspnet.webapi.client.5.2.8.nupkg.sha512",

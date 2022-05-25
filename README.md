@@ -18,6 +18,10 @@ If you have thought about how the solution can scale
 How testable is your code
 
 
+
+Answers for the following above Questions:
+
+
 1.Created  using Asp.Net core Rest API
 2. Created Structuredformat with Controller and Models.
 3. Used NugetPackages.Asp .Net Core
